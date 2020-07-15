@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://google.com",
+      "name": "Jão",
+      "birth": 717206400000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1594837020881
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://google.com",
+      "name": "Maria",
+      "birth": 977270400000,
+      "gender": "F",
+      "services": "Dança, Crossfit",
+      "created_at": 1594837066011
+    }
+  ]
+}
