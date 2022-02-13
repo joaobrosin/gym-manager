@@ -1,15 +1,16 @@
 <div align="center">
     <h1> Gym Manager </h1>
+    <b>ps: This Project is not finished yet</b>
 </div>
 
+<br>
+
 <img src="./public/gym-manager-layout.png">
-
-
 
 # Table of Contents
 - [About](#-about)
 - [Technologies](#-technologies)
-<!-- - [Installation](#-installation) -->
+- [Installation](#-installation)
 
 ---
 
@@ -28,21 +29,21 @@ The project was developed with the following technologies:
 - Nunjucks
 
 ---
-<!-- 
+
 ## 👇 Installation
 ```bash
     # Clone the repository
-    $ git clone https://github.com/joaobrosin/rentbooks
+    $ git clone https://github.com/joaobrosin/gym-manager
 
     # Enter directory
     $ cd rentbooks
 
     # Install the dependencies
-    $ yarn install
+    $ npm i
 
     # Start the project
-    $ yarn start
+    $ npm start
 ```
---- -->
+---
 
 Made with 💙 by ***João Brosin***.

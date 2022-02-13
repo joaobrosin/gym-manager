@@ -11,26 +11,26 @@
       <h3>Detalhes</h3>
 
       <div class="item">
-          <div>Instrutor</div>
-          <div>{{ instructor.name }}</div>
+        <div>Instrutor</div>
+        <div>{{ instructor.name }}</div>
       </div>
 
       <div class="item">
-          <div>Idade</div>
-          <div>{{ instructor.age }}</div>
+        <div>Idade</div>
+        <div>{{ instructor.age }}</div>
       </div>
 
       <div class="item">
-          <div>Sexo</div>
-          <div>{{ "Masculino" if  instructor.gender == "M" else "Feminino" }}</div>
+        <div>Sexo</div>
+        <div>{{ "Masculino" if  instructor.gender == "M" else "Feminino" }}</div>
       </div>
 
       <div class="item">
           <div>Acompanhamento</div>
           <div>
-              {% for service in instructor.services %}
-                <span>{{ service }}</span>
-              {% endfor %}
+            {% for service in instructor.services %}
+              <span>{{ service }}</span>
+            {% endfor %}
           </div>
       </div>
 
